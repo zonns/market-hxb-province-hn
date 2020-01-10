@@ -1,0 +1,79 @@
+{
+  "id": "1606501",
+  "name": "华融湘江",
+  "font_family": "hrxj-icon",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12758750",
+      "name": "理财风险评估",
+      "font_class": "licaifengxianpinggu",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "12758751",
+      "name": "理财产品购买",
+      "font_class": "licaichanpingoumai",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "12758752",
+      "name": "消息右",
+      "font_class": "xiaoxiyou",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "12758753",
+      "name": "我的理财产品",
+      "font_class": "wodelicaichanpin",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "12758754",
+      "name": "子账户查询",
+      "font_class": "zizhanghuchaxun",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "12758755",
+      "name": "账户管理",
+      "font_class": "zhanghuguanli",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "12758756",
+      "name": "华融听您言",
+      "font_class": "huarongtingninyan",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "12758757",
+      "name": "余额查询",
+      "font_class": "yuechaxun",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "12758758",
+      "name": "交易明细",
+      "font_class": "jiaoyimingxi",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "12758759",
+      "name": "理财产品撤销",
+      "font_class": "licaichanpinchexiao",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    }
+  ]
+}
